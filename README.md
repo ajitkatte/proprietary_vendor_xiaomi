@@ -1,5 +1,5 @@
-# proprietary_vendor_xiaomi
-Xiaomo Mi3/Mi4 device tre
+
+#Xiaomo Mi3/Mi4 vendor tree
 
 Xiaomi Mi3 and Mi4
 The Xiaomi Mi3 (codenamed "Cancro") is a high-end smartphone from Xiaomi. The Xiaomi Mi4 (codanamed "Cancro") is a high-end smartphone from Xiaomi.
